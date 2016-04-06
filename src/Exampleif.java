@@ -11,7 +11,7 @@ public class Exampleif {
             System.out.printf("X is less than Y");
         } else if (x == y){
                 System.out.printf("X is equal to Y");
-            } else if(x > y){
+            } else{
                 System.out.printf("X is greater than Y");
             }
     }
