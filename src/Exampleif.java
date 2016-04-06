@@ -8,11 +8,11 @@ public class Exampleif {
         int y = 20;
 
         if(x < y){
-            System.out.printf("X is less than Y");
+            System.out.println("X is less than Y");
         } else if (x == y){
-                System.out.printf("X is equal to Y");
+                System.out.println("X is equal to Y");
             } else{
-                System.out.printf("X is greater than Y");
+                System.out.println("X is greater than Y");
             }
     }
 }
